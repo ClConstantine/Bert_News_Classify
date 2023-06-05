@@ -1,0 +1,2 @@
+THUCNews/model.save filter=lfs diff=lfs merge=lfs -text
+THUCNews/model_latest.bin filter=lfs diff=lfs merge=lfs -text
